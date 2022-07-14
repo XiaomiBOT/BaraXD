@@ -20,6 +20,18 @@
 
   <a href="https://github.com/BaraXD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
+## Whatsapp Bot🎗️
+
+<p align="center">
+
+  <a href="https://wa.me/628979530736"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+## WhatsApp bot groups📍
+
+<p align="center">
+
+  <a href="https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 ## I`am not programmer🔭
 
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -43,6 +55,7 @@
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BaraXDz`](https://github.com/BaraXD)
 * [`PutraXD`](https://github.com/putragans9)
+* [`Kangsad`](https://github.com/sadteams)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
