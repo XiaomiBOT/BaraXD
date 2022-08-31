@@ -1,4 +1,4 @@
-# Hello<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm BaraXD !</h1>
+# Hello<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm XiaomiBOT !</h1>
 
 <p align="center">
 	<img src="https://telegra.ph/file/849940251f9be6babd1ff.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -10,27 +10,27 @@
 
 <p align="center">
 
-  <a href="https://instagram.com/lampu_philips267"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/rangga_botz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
-  <a href="https://wa.me/6283174508962"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/62857791505012"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-  <a href="https://t.me/BotzzMeeOFC"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://t.me/XiaomiBOT"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
-  <a href="https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ"><img src="https://img.shields.io/badge/YouTube-BotzzMeeOFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ" /><br>
+  <a href="https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw"><img src="https://img.shields.io/badge/YouTube-BotzzMeeOFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ" /><br>
 
-  <a href="https://github.com/BaraXD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/XiaomiBOT"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
 ## Whatsapp Bot🎗️
 
 <p align="center">
 
-  <a href="https://wa.me/628979530736"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/62857791505012"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## WhatsApp bot groups📍
 
 <p align="center">
 
-  <a href="https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://chat.whatsapp.com/DcIcuTKGWSm1pxBVc9pgvR"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## I`am not programmer🔭
 
@@ -46,9 +46,9 @@
 
 ## Github Stats 🚀
 
-<p align="center"><a href="https://github.com/BaraXD"><img src="https://github-readme-stats.vercel.app/api?username=BaraXD&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/XiaomiBOT"><img src="https://github-readme-stats.vercel.app/api?username=XiaomiBOT&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/BaraXD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraXD&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/XiaomiBOT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaomiBOT&theme=radical&layout=compact"></a></p> 
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
