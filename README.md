@@ -16,7 +16,7 @@
 
   <a href="https://t.me/XiaomiBOT"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
-  <a href="https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw"><img src="https://img.shields.io/badge/YouTube-BotzzMeeOFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ" /><br>
+  <a href="https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw"><img src="https://img.shields.io/badge/YouTube-XiaomiBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ" /><br>
 
   <a href="https://github.com/XiaomiBOT"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
